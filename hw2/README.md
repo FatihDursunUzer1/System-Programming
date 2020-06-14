@@ -10,3 +10,7 @@ odev2a.c
 
 aBc şeklinde parent processi önceden yazdıran ve daha sonra child lardan ilk oluşanı seçip yazdıran
 ardından ikinci childı yazdıran C programı
+
+odev2b.c
+
+Parent process in belli bir childi bekleyip diger childi beklememesini gosteren C programi 
